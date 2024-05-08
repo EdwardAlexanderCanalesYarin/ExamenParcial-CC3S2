@@ -63,3 +63,11 @@ Ejecucion de la clase main.
 
 
 ![Ej1Spr1CapturaEjecucion](Image/Ej1Spr1CapturaEjecucion.png)
+
+## 5) Escribir pruebas unitarias para asegurar que las preguntas se carguen correctamente y que las respuestas sean validadas adecuadamente.
+Se escribe dos pruebas unitarias para este sprint 1
+
+
+![Ej1Spr1CapturaPruebasUnitarias](Image/Ej1Spr1CapturaPruebasUnitarias.png)
+
+```OBSERVACION```   Debido a que los metodos de la clase Quiz son de tipo void, fallan las pruebas al ejecutarlas. Ello se solucionara en el siguiente sprint.
